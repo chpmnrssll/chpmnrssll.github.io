@@ -67,7 +67,7 @@
 
           Expert = $57.07 - $76.10/hr    or    $456.62 - $608.82/day
     Intermediate = $51.38 - $68.50/hr    or    $410.96 - $547.94/day
-           Entry = $42.81 - $57.08/hr    or    $342.48 - $456.64/day ***Minimum profitable rate***
+           Entry = $42.81 - $57.08/hr    or    $342.48 - $456.64/day
 
 
 ## Per asset rate
