@@ -71,7 +71,7 @@ I have been using HTML, CSS, and Javascript for more than 20 years.
 I remember Microsoft JScript nonsense and the first browser wars.
 
 
-My portfolio site is a single-page progressive web app built with Jekyll/GitHub Pages. You'll find more about other projects I've worked on under the "Development Portfolio" or "Development History" sections:
+My portfolio site is a progressive web app with both Jekyll and VuePress versions. You'll find more about other projects I've worked on under the "Development Portfolio" or "Development History" sections:
 https://github.com/chpmnrssll/chpmnrssll.github.io
 https://chpmnrssll.github.io/
 
@@ -80,11 +80,16 @@ More info about me is available on my upWork profile, my portfolio site, or on G
 
 ## Experience
 
-Gatsby/React static site converted from old Google Site (WIP).
+Feb, 2019
+Here's some code for a recent full-stack project I worked on that was cancelled. Initially this project was supposed to be based on https://github.com/jamesaud/VENoM-Docker (I even ended up doing a pull request to fix some bugs in that project before the plan was changed). It ended up using the MEVN stack (MongoDB, Express, Vue.js, and Node.js) plus a few more client side libraries (Vuetify, VueX, Axios). Most of the front-end is complete and I was finishing the API/DB when it was cancelled.
+https://github.com/chpmnrssll/headline-creation-tool
+
+Jan, 2019
+Converted a 10 year old Google Site to React/Gatsby.js while retaining all of the original meta data, tags, and page routes for search engine ratings. It uses Netlify-CMS for managing patient reviews.
 https://dentalcarearvada.netlify.com/
 
 Nov, 2018
-Developed automated GitBook markdown to WordPress compatible HTML pipeline using GitHub, Travis-CI, Docker, and Jekyll.
+Developed automated GitBook markdown to WordPress compatible HTML pipeline using GitHub, Travis-CI, Docker, Pandoc, and Jekyll.
 https://github.com/ggeorgelewis/help-portal
 https://ggeorgelewis.github.io/help-portal/
 
@@ -124,7 +129,7 @@ A Jekyll theme that I updated and modified for a client.
 https://github.com/chpmnrssll/identity-jekyll-theme
 
 Nov, 2013
-This is a multi-user content management app I put together using Backbone.js, Marionette.js, Bootstrap, PHP, and MongoDB.
+This is a multi-user content management app I put together using Backbone.js, Marionette.js, Bootstrap, PHP, Slim, and MongoDB.
 https://github.com/chpmnrssll/multi-CMS
 
 Oct, 2013
@@ -135,6 +140,9 @@ Sep, 2013
 Old PHP/SQL content management system. Based on RedHat OpenShift Paas.
 https://github.com/chpmnrssll/old
 
+This was meant to be the back-end for a multiplayer game that never got off the ground. The simple front-end and api code for user management was all finished though. (Uses passport.js for oAuth)
+https://github.com/chpmnrssll/game
+
 Jun, 2013
 Here is a WordPress project I worked on for the Mississippi Court Reporters Association & Like Minds Design. It's a custom plugin/theme replacement for default user profile system.
 - Public member directory
@@ -142,6 +150,16 @@ Here is a WordPress project I worked on for the Mississippi Court Reporters Asso
 - Custom user settings
 https://chpmnrssll.github.io/posts/about/MCRA
 http://mscra.com/
+
+
+
+## The benefits of Docker Compose
+
+Using Docker and defining your local development environment with Docker Compose provides you with a number of benefits:
+
+- By running Node.js and MongoDB in a Docker container, you don’t have to install or maintain the software on your local machine
+- Your entire local development environment can be checked into source control, making it easier for other developers to collaborate on a project
+- You can spin up the entire local development environment with one command: docker-compose up
 
 ## Other
 
