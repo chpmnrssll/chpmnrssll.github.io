@@ -27,7 +27,7 @@ Demonstrate that you read the entire job description and back it up with a speci
 
 I've been programming for more than 20 years and have been involved in freelancing off and on since 2012. Computer science, Real-time graphics, web application development, and open source often grab my attention.  I've worked on client and server side code and have experience with things like:
 
-    • JAMstack & Static site generators (Jekyll, Nuxt.js, VuePress, Gatsby)
+    • JAMstack & Static site generators (Jekyll, VuePress, Nuxt.js, Gatsby.js)
     • Content management systems (WordPress, Netlify)
     • Responsive design, lazy loading, SEO, site optimization
     • JavaScript, Node.js, PHP, Google Apps Script
@@ -45,6 +45,8 @@ My local development environment is Arch/Manjaro Linux with Gnome desktop and At
 
 ## Clipboard
 
+I am currently a freelance full stack developer on upWork, but am looking for long term opportunities locally.
+
 I'd be happy to help with this or anything else you might need my skills for.
 
 I have experience in everything you're looking for.
@@ -53,7 +55,7 @@ I have quite a bit of experience working with interactive/animated web sites.
 I have experience building everything from REST APIs, content management systems, single page apps, and more.
 I have experience in most of your requirements, and am not afraid of learning more.
 I've worked on many different types of web related projects from content management systems and web apps to real-time graphics.
-I've worked on many different types of web related projects ranging from advanced content management systems and web apps to simple static websites.
+I've worked on many different types of web related projects ranging from advanced content management systems and web apps to static websites.
 
 I've worked on many web related projects in several languages (including Node.js and PHP).
 I've built content management systems from scratch (with and without frameworks) in PHP, Node, & Ruby.
@@ -78,10 +80,15 @@ https://chpmnrssll.github.io/
 More info about me is available on my upWork profile or on GitHub @chpmnrssll
 More info about me is available on my upWork profile, my portfolio site, or on GitHub @chpmnrssll
 
+This is a boilerplate for new projects I've been working on using Jekyll with Webpack. I've updated quite a few things from the original to get 100% scores across the board in Google Lighthouse audits. https://github.com/chpmnrssll/jekyll-webpack
+
 ## Experience
 
 Feb, 2019
-Here's some code for a recent full-stack project I worked on that was cancelled. Initially this project was supposed to be based on https://github.com/jamesaud/VENoM-Docker (I even ended up doing a pull request to fix some bugs in that project before the plan was changed). It ended up using the MEVN stack (MongoDB, Express, Vue.js, and Node.js) plus a few more client side libraries (Vuetify, VueX, Axios). Most of the front-end is complete and I was finishing the API/DB when it was cancelled.
+Here's an example from recent full-stack project I worked on that was cancelled (taking my job success score down with it).
+Here's some code for a recent full-stack project I worked on that was cancelled.
+Initially this project was supposed to be based on https://github.com/jamesaud/VENoM-Docker (I even ended up doing a pull request to fix some bugs in that project before the plan was changed).
+It ended up using the MEVN stack (MongoDB, Express, Vue.js, and Node.js) plus a few more client side libraries (Vuetify, VueX, Axios). Most of the front-end is complete and I was finishing the API/DB when it was cancelled.
 https://github.com/chpmnrssll/headline-creation-tool
 
 Jan, 2019
