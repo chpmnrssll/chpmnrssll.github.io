@@ -1,3 +1,4 @@
+ I'd be interested in hearing more, but I have to warn you that I'm based in Colorado and am not really looking to relocate anytime soon. I do have quite a bit of experience working remotely though if that's what you're looking for. I'll be free after tomorrow to sit down and discuss more.
 
 OBJECTIVE
 I have studied a wide variety of programming languages ranging from x86 assembly
@@ -92,6 +93,7 @@ Julie Quigley
 Graphic Designer, Like Minds Designs
 info@likemindsdesigns.com
 601-350-0005
+601-207-4427
 
 Sue Fletcher
 Owner/CEO, Colorado Casket Company

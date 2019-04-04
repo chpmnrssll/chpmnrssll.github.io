@@ -1,0 +1,6 @@
+While freelancing is great and I enjoy working independently, I'm currently looking for a more long term role and am interested in joining your team. I have experience in most of your requirements, including: several front-end frameworks, Git, Docker, and CI/CD services. I've even successfully setup libvirt and virt-manager on an Arch/Manjaro Linux machine to run the MS-WIN10-EDGE virtual machine for cross-browser testing.
+
+About the only thing I don't know much about is your Elastic Stack. I've become fairly adept at "jumping stacks" from the widely varying projects on upWork and am always ready to learn something new.
+
+Thanks for your time,
+Russ
