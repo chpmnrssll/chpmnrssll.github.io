@@ -25,29 +25,29 @@ Demonstrate that you read the entire job description and back it up with a speci
 
 ## Profile
 
-I've been programming for more than 20 years and have been involved in freelancing off and on since 2012. Computer science, Real-time graphics, web application development, and open source often grab my attention.  I've worked on client and server side code and have experience with things like:
+I've been programming for more than 20 years and have been involved in freelancing since 2012. Web application development, real-time graphics, and open source often grab my attention. I've worked on client and server side code and have experience with things like:
 
-    • JAMstack & Static site generators (Jekyll, VuePress, Nuxt, Gatsby)
-    • Search engine optimization, Responsive design, Lazy loading
-    • Content management systems (WordPress, Netlify, custom)
-    • Vue.js, React.js, Backbone.js, jQuery, Express.js
-    • JavaScript, Node.js, PHP, Google Apps Script
-    • HTML5, CSS3, BEM, Sass, Stylus, PostCSS
-    • DevOps, CI/CD, Docker, Linux, Git
-    • Bower, Gulp, Grunt, Webpack
-    • MongoDB, SQL, CSV, XML
-    • API, PWA, REST, SPA
-    • SVG, Canvas, WebGL
+    • JAMstack & Static site generators (Jekyll, Gatsby, Gridsome, Nuxt)
+    • Search Engine Optimization (SEO), Responsive Design, Lazy loading
+    • Content Management Systems (Netlify-CMS, Ghost Blog, Cosmic.js)
+    • Progressive Web Apps (PWA), Single Page Apps (SPA), API
+    • HTML5, CSS3, PostCSS, Sass, SVG, Canvas, WebGL, Three.js
+    • JavaScript, ES7, Vue.js, React.js, jQuery
+    • Webpack, Bower, Gulp, Grunt
+    • CI/CD, DevOps, Docker, Git, Linux
+    • Node.js, Express.js, REST, MongoDB, SQL, GraphQL
 
-Feel free to contact me about your project, even if it's something not on my list. I'm always willing to learn.
-
-My local development environment is Arch/Manjaro Linux with Gnome desktop and Atom.io.
+Feel free to contact me if you think I could be of help with your project.
 
 ## Clipboard
 
+"Remember, the cost to hire me is a TAX DEDUCTIBLE business expense. You can write it off against your tax return, so it's money you'd have to spend on gov taxes anyway... so you might as well spend it on my expert services, right?"
+
+My local development environment is Arch/Manjaro Linux with Gnome desktop and Atom.io.
+
 I am currently a freelance full stack developer on upWork, but am looking for long term opportunities locally.
 
-While I might not match all of your requirements, I have enough experience to not be afraid of picking up new frameworks a project requires.
+I'm not afraid of picking up new frameworks if a project requires them.
 
 I'd be happy to help with this or anything else you might need my skills for.
 
@@ -58,6 +58,8 @@ I have experience building everything from REST APIs, content management systems
 I have experience in most of your requirements, and am not afraid of learning more.
 I've worked on many different types of web related projects from content management systems and web apps to real-time graphics.
 I've worked on many different types of web related projects ranging from advanced content management systems and web apps to static websites.
+
+I've worked with several DevOps and CI/CD automated build tools.
 
 I've worked on many web related projects in several languages (including Node.js and PHP).
 I've built content management systems from scratch (with and without frameworks) in PHP, Node, & Ruby.
@@ -96,6 +98,11 @@ Hello, I'm interested in joining your team. It sounds like you use most of my pr
 
 Feb, 2019
 
+
+This was a React project that never got off the ground. It was meant to be a simple template/page editor that saves layout data as JSON. The stored JSON page layout is rendered with Reactstrap (Bootstrap for React).
+code: https://bitbucket.org/chpmnrssll/chpmnrssll.bitbucket.io/src/master/news-app/
+demo: https://chpmnrssll.bitbucket.io/news-app/build/
+
 This is a recent full-stack project I worked on that was cancelled.
 
 Initially this project was supposed to be based on https://github.com/jamesaud/VENoM-Docker (I even ended up doing a pull request to fix some bugs in that project before the plan was changed).
@@ -113,9 +120,13 @@ GitHub: https://github.com/jamesaud/VENoM-Docker
 
 
 Jan, 2019
-This was a 10 year old Google Site I converted to Gatsby/React. It retains all of the original meta data, tags, and page routes for search engine ratings and uses Netlify-CMS for managing patient reviews.
+This was a 10 year old Google Site I converted to Gatsby/React. It retains all of the original meta data, tags, and page routes for search engine ratings, uses Netlify-CMS for managing patient reviews, and is fully responsive.
 GitHub: https://github.com/chpmnrssll/dentalcarearvada
 Demo: https://dentalcarearvada.netlify.com/
+
+Here's a quick example I put together using GitHub Pages and Travis-CI to host a Gatsby generated site.
+code: https://github.com/chpmnrssll/urban-consciousness
+demo: https://chpmnrssll.github.io/urban-consciousness/
 
 Dec, 2018
 CrowdOx SEM Optimizations
@@ -143,8 +154,9 @@ https://github.com/gwidgets/gwidgets.github.io
 http://www.g-widgets.com/
 
 Sep, 2018
-Google Scholar citation scraper for the Berkeley Existential Risk Initiative. Uses Node.js, oAuth2, and Google Sheets.
-https://github.com/chpmnrssll/scraper
+Google Scholar citation data scraper for the Berkeley Existential Risk Initiative. Uses Node.js, oAuth2, and Google Sheets for all the data storage: https://github.com/chpmnrssll/scraper
+
+This is a Node.js app I built for scraping citation data from Google Scholar for the Berkeley Existential Risk Initiative. It integrates with Google Sheets for all the data storage: https://github.com/chpmnrssll/scraper
 
 Jul, 2018
 Jekyll/GitHub Pages development & management for the Berkeley Existential Risk Initiative.
@@ -189,6 +201,10 @@ Here's some info on the static site generators I've worked with.
 - Gatsby is Node/GraphQL based and uses React.js on the front-end.
 - Nuxt.js is a Node based static site generator that uses Vue.js on the front-end.
 - VuePress is also based on Node and Vue.js. It's mostly meant for documentation sites, but it works as a lightweight static site generator without much configuration.
+- Gridsome uses Vue.js as front-end framework. Vue is an approachable, simple & fun framework for building fast interfaces. Vue is famous for its intuitive design and shallow learning curve. This means it's easy to train staff in, even non-frontend devs and designers. Since developers will be up-and-running with Vue quickly, training costs will be kept to a minimum.
+
+Gridsome is like Gatsby with Vue.js instead of React and is best for small sites.
+Nuxt is typically for larger, more complicated web apps and requires more configuration.
 
 CMS
 - prose.io is a simple content editor that works directly on a GitHub repository.
