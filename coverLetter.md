@@ -78,12 +78,7 @@ I remember Microsoft JScript nonsense and the first browser wars.
 
 I'm open to any other opportunities that may better fit my qualifications.
 
-My portfolio site is a progressive web app built with Webpack and Jekyll. You'll find more about other projects I've worked on under the "Development Portfolio" or "Development History" sections:
-https://github.com/chpmnrssll/chpmnrssll.github.io
-https://chpmnrssll.github.io/
-
-More info about me is available on my upWork profile or on GitHub @chpmnrssll
-More info about me is available on my upWork profile, my portfolio site, or on GitHub @chpmnrssll
+My portfolio site is a progressive web app built with Webpack and Jekyll. You'll find more about other projects I've worked on under the "Development Portfolio" or "Development History" sections: https://chpmnrssll.github.io/ More info about me is available on my upWork profile or on GitHub @chpmnrssll
 
 This is a boilerplate for new projects I've been working on using Jekyll with Webpack. I've updated quite a few things from the original to get 100% scores across the board in Google Lighthouse audits. https://github.com/chpmnrssll/jekyll-webpack
 
@@ -92,12 +87,17 @@ Live: https://chpmnrssll.github.io/vuepress/
 GitHub: https://github.com/chpmnrssll/vuepress
 
 
-Hello, I'm interested in joining your team. It sounds like you use most of my preferred stack too. I've been doing freelance development for quite a while through upWork (and oDesk before that) and have experience working remotely. I'm looking for a more sustainable long-term solution though, and your opening seems to be exactly that. Below are a few open-source related things I've worked on. There's more in my resume, github, and my portfolio site.
+I've been doing freelance development for quite a while through upWork (and oDesk before that) and have experience working remotely. I'm looking for a more sustainable long-term solution though, and your opening seems to be exactly that. Below are a few open-source related things I've worked on. There's more in my resume, github, and my portfolio site.
 
 ## Experience
 
-Feb, 2019
+May, 2019
 
+This is a new boilerplate project I've been working on to quickly build static sites with Gridsome. I've integrated many Netlify services including CMS and Forms. The contact page is live and the results are shown in the Netlify dashboard, but they also have email and other notification methods.
+GitHub: https://github.com/chpmnrssll/gridsome-boilerplate
+Demo: https://gridsome-boilerplate.netlify.com/
+
+Feb, 2019
 
 This was a React project that never got off the ground. It was meant to be a simple template/page editor that saves layout data as JSON. The stored JSON page layout is rendered with Reactstrap (Bootstrap for React).
 code: https://bitbucket.org/chpmnrssll/chpmnrssll.bitbucket.io/src/master/news-app/
@@ -123,6 +123,7 @@ Jan, 2019
 This was a 10 year old Google Site I converted to Gatsby/React. It retains all of the original meta data, tags, and page routes for search engine ratings, uses Netlify-CMS for managing patient reviews, and is fully responsive.
 GitHub: https://github.com/chpmnrssll/dentalcarearvada
 Demo: https://dentalcarearvada.netlify.com/
+Live: http://dentalcarearvada.com/
 
 Here's a quick example I put together using GitHub Pages and Travis-CI to host a Gatsby generated site.
 code: https://github.com/chpmnrssll/urban-consciousness
